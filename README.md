@@ -29,18 +29,13 @@
 # Cyclic App
 [![Deploy to Cyclic](https://deploy.cyclic.app/button.svg)](https://app.cyclic.sh/#/join/zeeoneofficial)
 
-<p align="center">
-  <a href="https://youtu.be/FqgjPDqWsF0"><img src="https://telegra.ph/file/65daaa8264afddd90ccb5.jpg" />
-</p>
 
 # Railway App
 [![Deploy to Railway](https://railway.app/button.svg)](https://railway.app?referralCode=zeeoneofc)
 
 
-
 # Replit App
 [![Run on Repl.it](https://repl.it/badge/github/zeeoneofficial/Alphabot-Md)](https://replit.com)
-
 
 
 
