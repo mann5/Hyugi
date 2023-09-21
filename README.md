@@ -4,15 +4,13 @@ Tiktok: hyugimura
 <p align="center">
 <a href="https://github.com/mann5/followers"><img title="Followers" src="https://img.shields.io/github/followers/mann5?color=red&style=flat-square"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fzeeoneofficial%2FRest-my-rest-api&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/zeeoneofficial/my-rest-api/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
-</p>
 <p align='center'>
     </p>
 
 -------
-<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Zeeoneofc 😇 </h1>
+<h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Hyugimura </h1>
 <p align="center">
-  <img src="https://github.com/zeeoneofficial.png" /></>
+  <img src="[http](https://images.app.goo.gl/ZqFTSBi4fdZ5NC6U8)" /></>
 </p>
 
 - 👼 My name is Hyugimura
