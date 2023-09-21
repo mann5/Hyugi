@@ -10,7 +10,8 @@ Tiktok: hyugimura
 -------
 <h1 align="center">assalamu'alaikum <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="40px" alt="hi"><br>I'm Hyugimura </h1>
 <p align="center">
-  <img src="https://images.app.goo.gl/ZqFTSBi4fdZ5NC6U8.png" /></>
+  <img src="https://github.com/mann5/Hyugi/assets/141479010/4485cdd3-05e8-4ba5-a84a-260cf12c814e
+.png" /></>
 </p>
 
 - 👼 My name is Hyugimura
